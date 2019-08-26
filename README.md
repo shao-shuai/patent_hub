@@ -1,4 +1,6 @@
 # Patent Hub - aggregating everything about patent
+[中文版请点这里](C:\patent_hub\各国专利局.md)
+
 ## USPTO
 
 [USPTO Patent Full-Text and Image Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm)
