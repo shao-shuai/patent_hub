@@ -1,5 +1,5 @@
 # Patent Hub - aggregating everything about patent
-[中文版请点这里](C:\patent_hub\各国专利局.md)
+[中文版请点这里](patent_office_CN.md)
 
 ## USPTO
 
