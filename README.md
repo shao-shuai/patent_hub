@@ -1,10 +1,11 @@
-# Patent Hub
-### Patent Office
+# Patent Hub - aggregating everything about patent
+## USPTO
 
-USPTO
+[USPTO Patent Full-Text and Image Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm)
 
-SIPO
+- updated weekly
 
-JPO
+Public Patent Application Information Retrieval ([Public PAIR](https://portal.uspto.gov/pair/PublicPair))
 
-EPO
+- a place to retrieval prosecution history of US patents
+
