@@ -25,4 +25,3 @@
 [Velos Media](http://velosmedia.com/)
 
 ![HEVC licensors](HEVC.jpg)
-
