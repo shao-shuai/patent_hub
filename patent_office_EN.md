@@ -1,47 +1,47 @@
-# **世界各国专利局**
+# Patent Offices
 
-## 美国专利局(USPTO)
+## USPTO
 
 [USPTO Patent Full-Text and Image Database](http://patft.uspto.gov/netahtml/PTO/search-adv.htm)
 
-> 美国专利局官方检索网站，每周二更新
+> update weekly
 
 Public Patent Application Information Retrieval ([Public PAIR](https://portal.uspto.gov/pair/PublicPair))
 
-> 检索美国专利审查历史
+> a place to retrieval prosecution history of US patents
 
 [Patent Assignment Search](https://assignment.uspto.gov/patent/index.html#/patent/search)
 
-> 检索美国专利转让
+> search patent assignments
 
 [Patent Trial and Appeal Board (PTAB) Bulk Data](https://developer.uspto.gov/ptab-web/#/search/decisions)
 
-> 检索专利无效程序文件
+> retrieve PTAB trial documents
 
-## 欧洲专利局
+## EPO
 
 [Espacenet](https://worldwide.espacenet.com/)
 
-> 欧洲专利局官方检索网站
+> EPO's official patent search database
 
 [European Patent Register](https://register.epo.org/regviewer)
 
-> 检索欧洲专利审查历史
+> retrieve prosecution history of EP patents
 
-## 国知局(SIPO)
+## SIPO
 
 [China and Global Patent Examination Information Inquiry](http://cpquery.sipo.gov.cn/)
 
-> 检索中国专利审查历史
+> retrieve prosecution history of CN patents
 
-## 日本专利局(JPO)
+## JPO
 
 [J-PiatPat](https://www.j-platpat.inpit.go.jp/)
 
-> 日本专利局官方检索网站
+> JPO's official patent search database
 
-## 世界知识产权组织(WIPO)
+## WIPO
 
 [PATENTSCOPE](https://patentscope.wipo.int/search/en/search.jsf)
 
-> WIPO官方检索网站
+> WIPO's official patent search database
