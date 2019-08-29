@@ -10,5 +10,5 @@
 
 [Patent Litigation](patent_litigation.md)
 
-[Patent Organizations](C:\patent_hub\patent_organization.md)
+[Patent Organizations](patent_organization.md)
 
