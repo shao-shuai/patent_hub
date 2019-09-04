@@ -1,6 +1,6 @@
 # Patent Hub
 
-> Welcome to patent hub, I am a patent practitioner, this repo is for collecting and aggregating everything I know about the patent. Don't be suprised if you see something appearing non-patent related as a patent problem not always caused by patent itself.
+> Welcome to patent hub, I am a patent practitioner, this repo is for collecting and aggregating everything I know about the patent. Don't be surprised if you see something appearing non-patent related as a patent problem not always caused by patent itself.
 
 [各国专利局](/Pages/patent_office_CN.md)
 
