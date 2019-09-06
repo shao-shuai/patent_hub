@@ -45,3 +45,8 @@ Public Patent Application Information Retrieval ([Public PAIR](https://portal.us
 [PATENTSCOPE](https://patentscope.wipo.int/search/en/search.jsf)
 
 > WIPO's official patent search database
+
+## UK patent
+
+[Ipsum](https://www.ipo.gov.uk/p-ipsum.htm)
+
