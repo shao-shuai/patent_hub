@@ -37,5 +37,5 @@ applied machine learning techniques
 - knowledge of Unix/Linux scripting
 - experience building and utilizing APIs
 
-[PHD转行之路]([http://www.juyang.co/phd%E8%BD%AC%E8%A1%8C%E4%B9%8B%E8%B7%AF/](http://www.juyang.co/phd转行之路/))
+[PHD转行之路](http://www.juyang.co/phd%E8%BD%AC%E8%A1%8C%E4%B9%8B%E8%B7%AF/)
 
